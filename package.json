@@ -1,0 +1,9 @@
+{
+  "name": "gwab-webapp",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Simple web site for Global Azure Bootcamp",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
